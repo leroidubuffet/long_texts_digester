@@ -8,6 +8,8 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Extract a summary of the content in 500 words, including who is presenting and the content being discussed into a section called SUMMARY:.
 
+- Extract a the relevant professional information and names of the person or people interviewed in the transcript and add it in a section called BIO:.
+
 - Extract an organized summary in 1000 words of how the discussed tool works focusing on the technical and AI related dettails in a section called TOOL:.
 
 - Extract a summary of 500 words with all the AI, ML and LLM related information in a section called AI & ML.
