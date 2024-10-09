@@ -1,0 +1,10 @@
+# Ignore configuration file
+.config/config
+
+# Ignore common files and directories
+node_modules/
+.DS_Store
+*.log
+.env
+
+# Add any other files or directories you want to ignore
